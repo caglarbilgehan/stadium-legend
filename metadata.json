@@ -1,0 +1,6 @@
+{
+  "name": "Ritim Garajı — Garajdan Dünya Sahnesine",
+  "description": "Eksik davul vuruşunu kulakla yakala, grubunu garajdan dünya stadyumuna taşı! YouTube Playables uyumlu, eğitici ve mizahi ritim oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
